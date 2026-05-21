@@ -1,0 +1,49 @@
+
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: sans-serif;
+}
+.container{
+    border: 2px solid rgb(250, 29, 29);
+    width: 300px;
+    height: 455px;
+    padding-top: 20px;
+    border-radius: 9px;
+    background-color: rgb(51, 48, 53);
+}
+
+.button{
+    padding: 19px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 18px;
+    max-width: 58px;
+   
+}
+.button:hover{
+    background-color: rgb(255, 100, 100);
+    border-radius: 0;
+    color: yellow;
+    border-color: rgb(14, 226, 60);
+}
+
+.row{
+    margin: 8px 0;
+}
+.ro{
+    margin: 8px 0;
+    padding: 0 20px;
+    font-size: 2px;
+}
+
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px  6px;
+    border: 2px solid black;
+    border-radius: 9px;
+    background-color: rgb(206, 255, 206);
+}
