@@ -21,7 +21,7 @@ html, body{
     cursor: pointer;
     font-size: 18px;
     max-width: 58px;
-   
+    
 }
 .button:hover{
     background-color: rgb(255, 100, 100);
